@@ -23,7 +23,7 @@
 
 ## 🚀 Tech Stack
 
-###🔹 Languages & Frameworks
+### 🔹 Languages & Frameworks
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
