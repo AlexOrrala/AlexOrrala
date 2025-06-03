@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋I'm Alex Orrala
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexOrrala&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrrala&layout=compact&theme=tokyonight)
+
 
 <!--
 **AlexOrrala/AlexOrrala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
