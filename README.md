@@ -76,8 +76,9 @@
 
 📬 Reach me via [LinkedIn](https://www.linkedin.com/in/alex-javier-orrala-onofre-95b172255/)
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrrala&layout=compact&theme=tokyonight)
-
+<div>
 <!--
 **AlexOrrala/AlexOrrala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
