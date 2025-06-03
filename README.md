@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B13DF7&vCenter=true&multiline=true&width=750&height=150&lines=Cybersecurity+%26+Linux+Enthusiast+%F0%9F%9B%A1%EF%B8%8F%F0%9F%90%A7;Passionate+Full+Stack+Developer+%F0%9F%92%BB;Java%2C+Spring+Boot+%26+Microservices+%E2%98%95%F0%9F%9A%80;C%23%2C+React%2C+TypeScript+%26+NestJS+%F0%9F%92%A1;Always+Learning+%26+Building!+%F0%9F%93%9A%F0%9F%94%A7)](https://git.io/typing-svg)
 
-</div>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrrala&layout=compact&theme=tokyonight)
+
+</div>
 
 ## 🌱 Currently Learning
 - 📘 Flutter & Dart
