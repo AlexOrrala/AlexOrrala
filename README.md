@@ -25,6 +25,7 @@
 ## 🚀 Tech Stack
 
 ###🔹 Languages & Frameworks
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -39,10 +40,12 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
 
 ### 🔹 Databases
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)
 
 ### 🔹 Cloud & DevOps
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
