@@ -5,9 +5,65 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B13DF7&vCenter=true&multiline=true&width=750&height=150&lines=Cybersecurity+%26+Linux+Enthusiast+%F0%9F%9B%A1%EF%B8%8F%F0%9F%90%A7;Passionate+Full+Stack+Developer+%F0%9F%92%BB;Java%2C+Spring+Boot+%26+Microservices+%E2%98%95%F0%9F%9A%80;C%23%2C+React%2C+TypeScript+%26+NestJS+%F0%9F%92%A1;Always+Learning+%26+Building!+%F0%9F%93%9A%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrrala&layout=compact&theme=tokyonight)
+
+## 🌱 Currently Learning
+- 📘 Flutter & Dart
+- 🐍 Python for AI & automation
+- 🧠 AI/ML fundamentals (models, theory & practice)
+- 🛡️ Cybersecurity deep dive (pentesting, Linux hardening, OWASP)
+
+## 💬 Ask Me About
+- ☕ Java, Spring Boot, Microservices
+- ☁️ AWS, GCP & cloud architecture
+- ⚙️ Dev practices, CI/CD, REST APIs
+
+## 📫 Reach Me
+- 📧 Email: alex_orrala@hotmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-javier-orrala-onofre-95b172255/)
+
+## 🚀 Tech Stack
+
+###🔹 Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+
+### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle)
+
+### 🔹 Cloud & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
+### 🔹 Architecture
+- 🧱 Microservices & Micro Frontends.
+- ✅ SOLID Principles & Clean Code.
+- 🔐 OAuth2 & Secure APIs.
+
+### 🔹 Additional Skills
+- 🐧 Linux power user
+- 📚 Technical documentation & code reviews
+
+## 🏆 Achievements
+- 🚢 Scalable architectures with Java & Docker
+- ⚡ Optimized REST APIs in Node.js & Spring Boot
+- 🔒 Secured apps with OAuth2, JWT & HTTPS.
+
+
+📬 Reach me via [LinkedIn](https://www.linkedin.com/in/alex-javier-orrala-onofre-95b172255/)
+
 
 
 <!--
