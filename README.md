@@ -78,7 +78,10 @@
 - ⚡ Optimized REST APIs in Node.js & Spring Boot  
 - 🔒 Secured apps with OAuth2, JWT & HTTPS
 
-📬 Reach me via [LinkedIn](https://www.linkedin.com/in/alex-javier-orrala-onofre-95b172255/)
+### 📬 Reach me via  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alex-javier-orrala-onofre-95b172255/)  
+- 🧑‍💻 [TryHackMe](https://tryhackme.com/p/ajorrala)
+
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOrrala&layout=compact&theme=tokyonight)
