@@ -52,14 +52,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 ### 🔹 Architecture
-- 🧱 Microservices & Micro Frontends.
+- 🧱 ![Microservices](https://img.shields.io/badge/Microservices-00BFFF?style=flat&logo=dapr&logoColor=white) & ![Microfrontends](https://img.shields.io/badge/Microfrontends-FFB300?style=flat&logo=webcomponents.org&logoColor=white).
 - ✅ SOLID Principles & Clean Code.
-- 🔐 OAuth2 & Secure APIs.
 - ![UML](https://img.shields.io/badge/UML-Darkblue?style=flat&logo=uml&logoColor=white)
 - ![REST](https://img.shields.io/badge/REST-25A162?style=flat&logo=api&logoColor=white)
 - ![SOAP](https://img.shields.io/badge/SOAP-002A4D?style=flat&logo=protocolsio&logoColor=white)
-- ![Microservices](https://img.shields.io/badge/Microservices-00BFFF?style=flat&logo=dapr&logoColor=white)
-- ![Microfrontends](https://img.shields.io/badge/Microfrontends-FFB300?style=flat&logo=webcomponents.org&logoColor=white)
 - ![OAuth2](https://img.shields.io/badge/OAuth2-3178C6?style=flat&logo=oauth&logoColor=white)
 - ![PEP8](https://img.shields.io/badge/PEP8-FFD43B?style=flat&logo=python&logoColor=black)
 
