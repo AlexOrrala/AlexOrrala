@@ -14,7 +14,6 @@
 
 ## 💬 Ask Me About
 - ☕ Java, Spring Boot, Microservices
-- ☁️ AWS, GCP & cloud architecture
 - ⚙️ Dev practices, CI/CD, REST APIs
 
 ## 📫 Reach Me
